@@ -1,0 +1,9 @@
+*
+!*/
+!README.md
+!.gitignore
+!*.mp4
+!*.jpg
+!*.jpeg
+!*.png
+.env*
