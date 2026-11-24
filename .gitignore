@@ -7,3 +7,5 @@
 !*.jpeg
 !*.png
 .env*
+!*.mp3
+!*.wav
